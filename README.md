@@ -31,6 +31,11 @@ git clone https://github.com/mingw-io/nodejs-elasticsearch
 
 * POST https://localhost:3001/api/v1/students
 
+**Get List of Students**
+
+![image](https://user-images.githubusercontent.com/70483213/155897896-c8494aa1-ab40-4023-ae3e-884036aca369.png)
+
+
 **TLS Certificates**
 
 ![image](https://user-images.githubusercontent.com/70483213/155897476-7b8b973e-8191-4527-8342-a0fdb1e048c7.png)
